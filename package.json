@@ -1,0 +1,30 @@
+{
+  "name": "clientdemo",
+  "version": "1.0.0",
+  "description": "Pilvi-client",
+  "main": "mqtt_mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "rerkki",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.16.0",
+    "mqtt": "^5.13.0"
+  },
+  "engines": {
+    "node": "22.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakkipena/MQTT-MONGODB-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nakkipena/MQTT-MONGODB-app/issues"
+  },
+  "homepage": "https://github.com/Nakkipena/MQTT-MONGODB-app#readme"
+}
